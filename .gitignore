@@ -1,0 +1,17 @@
+.idea
+.sass-cache
+pkg
+plugins
+resources/
+platforms
+platforms/*
+node_modules
+www/lib
+www/instrumented
+tests/test-reports
+inlinestyles.json
+npm-debug.log
+.vagrant
+tests/karma.tmp.js
+scss/
+dist/
