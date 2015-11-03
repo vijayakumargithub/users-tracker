@@ -6,7 +6,6 @@ resources/
 platforms
 platforms/*
 node_modules
-www/lib
 www/instrumented
 tests/test-reports
 inlinestyles.json
